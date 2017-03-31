@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-storage-agent",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./main.js",
+  "dependencies": {
+    "mongoose": "^4.9.2"
+  }
+}
